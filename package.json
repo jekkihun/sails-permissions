@@ -2,7 +2,7 @@
   "name": "sails-permissions",
   "version": "2.2.0",
   "description": "Comprehensive user permissions and entitlements system for sails.js and Waterline. Supports user authentication with passport.js, role-based permissioning, object ownership, and row-level security.",
-  "main": "api/hooks/permissions/index.js",
+  "main": "dist/api/hooks/permissions/index.js",
   "scripts": {
     "test": "gulp && mocha --reporter spec --compilers js:babel/register",
     "prepublish": "gulp"
